@@ -1,4 +1,4 @@
-***Hi, this is Rodoshi**
+***Hi, this is Rodoshi***
 
 Former Software Engineer Intern @Magna International
 2x Hackathon Winner
