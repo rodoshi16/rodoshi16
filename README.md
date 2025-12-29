@@ -1,4 +1,4 @@
-Hi, thanks for stopping by! Time is money, here’s all you need in 5 seconds: 
+Hi, thanks for stopping by! Time is money so here’s all you need in 5 seconds: 
 
 ****This is Rodoshi ✨****
 
