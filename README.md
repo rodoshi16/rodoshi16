@@ -1,6 +1,6 @@
 Hi, thanks for stopping by. Time is money, so 5 seconds is all you need to learn about my work.
 
-***This is Rodoshi 👋***
+****This is Rodoshi ✨****
 
 - Former Software Engineer Intern **@Magna International**
 - **2x** Hackathon Winner
