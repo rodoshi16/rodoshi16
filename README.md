@@ -1,9 +1,9 @@
-Hi, thanks for stopping by. Time is money, so all you need is 5seconds to learn more about my work. 
+Hi, thanks for stopping by. Time is money, so 5 seconds is all you need to learn about my work.
 
-****This is Rodoshi****
+****This is Rodoshi ✨****
 
 - Former Software Engineer Intern **@Magna International**
-- **2x* Hackathon Winner
+- **2x** Hackathon Winner
 - 3D printed prosthetic project featured on **Global News**
 - Built and **shipped** software in the industry impacting **7+ engineers**, boosting data accuracy and operational efficiency
 - **Mentored** students at Hackathons and Coding workshops
