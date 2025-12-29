@@ -1,4 +1,4 @@
-Hi, thanks for stopping by. Time is money, so 5 seconds is all you need to learn about my work.
+Hi, thanks for stopping by! Here's a brief recap of my work:
 
 ****This is Rodoshi ✨****
 
