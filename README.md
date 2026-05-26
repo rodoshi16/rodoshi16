@@ -2,7 +2,7 @@ Hi, thanks for stopping by! Time is money so here’s all you need in 5 seconds:
 
 ****This is Rodoshi ✨****
 
-- Former Software Engineer Intern **@Magna International**
+- Software Engineer Intern **@CIBC**, prev SWE **Magna**
 - **3x** Hackathon Winner
 - 3D printed prosthetic project featured on **Global News**
 - Built and **shipped** software in the industry impacting **7+ engineers**, boosting data accuracy and operational efficiency
