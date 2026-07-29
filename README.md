@@ -1,18 +1,126 @@
-Hi, thanks for stopping by! Time is money so here’s all you need in 5 seconds: 
+<div align="center">
 
-****This is Rodoshi ✨****
+```
+$ whoami
+```
 
-- Software Engineer Intern **@CIBC** , prev **@Magna International**
-- **3x** Hackathon Winner
-- 3D printed prosthetic project featured on **Global News**
-- Built and **shipped** software in the industry impacting **7+ engineers**, boosting data accuracy and operational efficiency
-- **Mentored** students at Hackathons and Coding workshops
-- Leadership involvement: Project Lead **@Engineers Without Borders**, Mentor **@WISE**, Externals Associate **@IEEE_UofT**, Residence Don **@UofT**
+**rodoshi**
+`swe intern @ cibc wealth management technology`
+`prev. @ magna international — autonomous driving`
 
-![Python](https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-34495E?style=for-the-badge&logo=java&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/TypeScript-5D6D7E?style=for-the-badge&logo=typescript&logoColor=white) 
-![React](https://img.shields.io/badge/React-3B5998?style=for-the-badge&logo=react&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-1F4E79?style=for-the-badge&logo=node.js&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-2874A6?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Spring Boot](https://img.shields.io/badge/SpringBoot-2E4053?style=for-the-badge&logo=spring&logoColor=white)
+</div>
+
+<br>
+
+```
+$ cat /proc/self/status
+────────────────────────────────────────────────────────────
+  school        university of toronto — cs specialist, econ minor
+  focus         low-latency systems, quant-adjacent engineering
+  stack         c++20 / python / sql
+  infra         databricks · azure devops · etl pipelines
+────────────────────────────────────────────────────────────
+```
+
+<br>
+
+```
+$ ./apex --benchmark
+────────────────────────────────────────────────────────────
+  APEX — c++20 exchange matching engine
+────────────────────────────────────────────────────────────
+  throughput        5,000,000 orders/sec
+  median latency    199 ns
+  matching          price-time priority
+  concurrency       lock-free ring buffer (LMAX disruptor)
+  allocator         custom object pool — zero alloc on hot path
+────────────────────────────────────────────────────────────
+  built to hold up under quant/HFT recruiting scrutiny.
+  repo: github.com/rodoshi16/apex
+```
+
+<br>
+
+```
+$ ps aux --sort=-latency
+────────────────────────────────────────────────────────────
+  pid    project          stat   description
+────────────────────────────────────────────────────────────
+  0199   apex             R      c++20 matching engine, 199ns median
+  0140   alphaai          R      ai paper-trading, mongodb/auth0/solana
+  0075   reclaim          S      swift/visionOS pose tracking, limb-loss aid
+  0001   enable_toronto   R      3d-printed prosthetics — feat. global news
+────────────────────────────────────────────────────────────
+  R = running   S = sleeping (shipped, maintained ad hoc)
+```
+
+<br>
+
+```
+$ git log --oneline --graph
+────────────────────────────────────────────────────────────
+* 2025–present  feat(cibc): etl pipelines, databricks, azure devops
+* 2025 summer   feat(magna): disengagement logger — 5min → 5sec, +90% accuracy
+* —             feat(enable-toronto): 3d-printed prosthetics — global news feature
+* —             feat(rtc): founded 55-person women's leetcode community
+────────────────────────────────────────────────────────────
+```
+
+<br>
+
+```
+$ cat skills.conf
+────────────────────────────────────────────────────────────
+  c++20        [||||||||||||||||||||||||||]  primary
+  python       [||||||||||||||||||||      ]  etl, tooling
+  sql          [||||||||||||||||          ]  data engineering
+  typescript   [||||||||||||              ]  web/full-stack
+  swift        [|||||||||                 ]  ios (reclaim)
+────────────────────────────────────────────────────────────
+```
+
+<br>
+
+```
+$ echo $ROLES
+────────────────────────────────────────────────────────────
+  project lead     engineers without borders
+  mentor           wise
+  externals assoc  ieee uoft
+  residence don    university of toronto
+────────────────────────────────────────────────────────────
+```
+
+<br>
+
+<div align="center">
+
+```
+$ curl stats.github/rodoshi16
+```
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rodoshi16&show_icons=true&theme=chartreuse-dark&hide_border=true&hide_title=true&text_color=c9d1d9&icon_color=6e7681&bg_color=0d1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodoshi16&layout=compact&theme=chartreuse-dark&hide_border=true&hide_title=true&text_color=c9d1d9&bg_color=0d1117" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rodoshi16&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=0d1117&ring=6e7681&fire=c9d1d9&currStreakLabel=c9d1d9" />
+
+<br><br>
+
+<picture>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/rodoshi16/rodoshi16/output/github-snake-dark.svg" width="90%" />
+</picture>
+
+</div>
+
+<br>
+
+```
+$ cat contact.txt
+────────────────────────────────────────────────────────────
+  email      your-email@example.com
+  linkedin   linkedin.com/in/your-linkedin
+────────────────────────────────────────────────────────────
+$ _
+```
