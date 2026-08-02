@@ -65,8 +65,8 @@ Time is money so here's all you need in 5 seconds:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-4F7B8C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D98E4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/rodoshi-mondal/"><img src="https://img.shields.io/badge/LinkedIn-4F7B8C?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:rodoshi524@gmail.com"><img src="https://img.shields.io/badge/Email-D98E4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
