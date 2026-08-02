@@ -1,40 +1,18 @@
-```text
-╭──────────────────────────────────────────────╮
-│              RODOSHI SYSTEM MONITOR          │
-╰──────────────────────────────────────────────╯
+Hi, thanks for stopping by! Time is money so here’s all you need in 5 seconds: 
 
-USER        : rodoshi
-ROLE        : software engineer
-STATUS      : ONLINE 🟢
+****This is Rodoshi ✨****
 
-PROCESS                     CPU        STATUS
-──────────────────────────────────────────────
-building_products           ██████████ 100%
-shipping_code               ██████████ 100%
-solving_problems            █████████░ 95%
-learning_new_tech           █████████░ 90%
-winning_hackathons          ████████░░ 80%
-mentoring_students          ███████░░░ 75%
-boxing_training             █████████░ 90%
-drinking_coffee             ██████████ 100%
+- Software Engineer Intern **@CIBC** , prev **@Magna International**
+- **3x** Hackathon Winner
+- 3D printed prosthetic project featured on **Global News**
+- Built and **shipped** software in the industry impacting **7+ engineers**, boosting data accuracy and operational efficiency
+- **Mentored** students at Hackathons and Coding workshops
+- Leadership involvement: Project Lead **@Engineers Without Borders**, Mentor **@WISE**, Externals Associate **@IEEE_UofT**, Residence Don **@UofT**
 
-ACTIVE_PROJECTS
-──────────────────────────────────────────────
-> Apex             [C++20]     RUNNING
-> Reclaim          [Swift]     RUNNING
-> FraudIQ          [AI/ML]     RUNNING
-
-EXPERIENCE
-──────────────────────────────────────────────
-✓ CIBC                     Software Engineer Intern
-✓ Magna International       Autonomous Driving
-
-ACHIEVEMENTS
-──────────────────────────────────────────────
-🏆 Hackathons              3x WINNER
-🦾 Prosthetics Project      Global News Featured
-🌎 Community               Mentor + Leader
-
-SYSTEM MESSAGE:
-"building things that matter..."
-```
+![Python](https://img.shields.io/badge/Python-2C3E50?style=for-the-badge&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-34495E?style=for-the-badge&logo=java&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-5D6D7E?style=for-the-badge&logo=typescript&logoColor=white) 
+![React](https://img.shields.io/badge/React-3B5998?style=for-the-badge&logo=react&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-1F4E79?style=for-the-badge&logo=node.js&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-2874A6?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Spring Boot](https://img.shields.io/badge/SpringBoot-2E4053?style=for-the-badge&logo=spring&logoColor=white)
